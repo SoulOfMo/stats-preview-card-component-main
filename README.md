@@ -72,4 +72,3 @@ I will like to continue development on
 
 - I got inspired by his work  - [@chriskorsak](https://www.frontendmentor.io/profile/chriskorsak) 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
