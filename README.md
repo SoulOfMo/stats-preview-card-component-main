@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/SoulOfMo/stats-preview-card-component-main.git)
-- Live Site URL: [](soulofmo.github.io/stats-preview-card-component-main/)
+- Solution URL: [Solution](https://github.com/SoulOfMo/stats-preview-card-component-main.git)
+- Live Site URL: [Live Site](soulofmo.github.io/stats-preview-card-component-main/)
 
 ## My process
 
@@ -70,5 +70,5 @@ I will like to continue development on
 
 ## Acknowledgments
 
-- I got inspired by his work  - [@chriskorsak](https://www.frontendmentor.io/profile/chriskorsak) 
+- I learned how to use the mix-blend-mode from his code - [@chriskorsak](https://www.frontendmentor.io/profile/chriskorsak) 
 

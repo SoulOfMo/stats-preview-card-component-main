@@ -39,12 +39,12 @@ main {
 
 .info {
     width: 50%;
-    margin: 40px 35px 0;
+    margin: 40px 35px 20px;
     padding: 2rem;
 }
 
 h1 {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
     font-size: 2rem;
 }
 
@@ -53,15 +53,16 @@ span.first {
 }
 
 p {
-    font-size: 0.8rem;
-    margin-bottom: 12%;
-    max-width: 320px;
+    font-size: 0.9rem;
+    margin-bottom: 4rem;
+    max-width: 310px;
     line-height: 20px;
+    color: var(--neutral2);
 }
 
 .details {
-    font-weight: 400;
-    font-size: 0.9rem;
+    letter-spacing: 1px;
+    font-size: 0.7rem;
     color: var(--neutral2);
 }
 
@@ -71,12 +72,13 @@ h2 {
 }
 
 h2 {
-    font-size: 1.2rem;
+    font-weight: 700;
+    font-size: 1.3rem;
     margin-bottom: 5px;
 }
 
 .stats {
-    max-width: 350px;
+    max-width: 330px;
     display: flex;
     justify-content: space-between;
 }
@@ -137,6 +139,7 @@ img {
     }
 
     .stats {
+        margin: 0 auto;
         flex-direction: column;
         align-items: center;
     }
